@@ -1,0 +1,52 @@
+.about-container {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #eaf4f9; /* Light blueish background */
+    color: #333;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #2c3e50; /* Darker blue for contrast */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #2c3e50; /* Darker blue for contrast */
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #4a6fa5; /* Soft blue */
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+ol {
+    margin-bottom: 20px;
+}
+
+a {
+    color: #3498db; /* Light blue for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

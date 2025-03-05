@@ -1,0 +1,62 @@
+/* FaceRecognition CSS */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #f0f8ff; /* Light blueish background */
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    color: #2c3e50; /* Dark blue-gray */
+  }
+  
+  .flex {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .win2 {
+    flex: 2;
+    padding-right: 1.5rem;
+  }
+  
+  .win1 {
+    flex: 1;
+  }
+  
+  h2 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #34495e; /* Slightly lighter blue-gray */
+  }
+  
+  img {
+    width: 100%;
+    border-radius: 8px;
+    border: 2px solid #85c1e9; /* Light blue border */
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  ul {
+    background-color: #eaf2f8; /* Very light blue background */
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  li {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+    color: #2c3e50; /* Dark blue-gray for text */
+  }
+  
+  li span {
+    font-weight: bold;
+    color: #3498db; /* Bright blue for the name */
+  }
+  
