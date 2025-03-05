@@ -85,10 +85,10 @@ This launches the React frontend at `http://localhost:3000/`.
 - **Mobile App:** Creating a mobile application for easier attendance marking.
 
 ## Contributors
-- [Yuvan Velkumar]
-- [Navin]
-- [Sujith]
-- [Vishal]
+- Yuvan Velkumar
+- Navin
+- Sujith
+- Vishal
 
 
 
